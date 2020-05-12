@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    height: 90px;
+    background-color: #26d0c9;
+}
+.nav-logo{
+float:left;
+margin:0 40px;
+padding:20px 0;
+font-size:36px;
+color:#fff;
+}
+.nav-elements{
+    padding:33px 0;
+}
+.nav-elements li{
+    list-style: none;
+    float:left;
+    color:#fff;
+    margin:0 20px;
+    }
